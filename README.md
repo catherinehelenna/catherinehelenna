@@ -2,7 +2,7 @@
 
 ## Hi, I'm Catherine Helenna!👋
 
-Passionate about unraveling hidden stories in data to craft impactful solutions and drive meaningful decisions.🚀📊✨
+Passionate about unraveling hidden stories in data to craft impactful solutions and drive meaningful decisions.📊✨
 </div>
 
 - 🔭 I’m currently working on explorative data analysis techniques, involving:
