@@ -5,13 +5,9 @@
 Passionate about unraveling hidden stories in data to craft impactful solutions and drive meaningful decisions.📊✨
 </div>
 
-- 🔭 I have become more proficient in explorative data analysis techniques (data preprocessing, data analysis with statistical methods, and data visualizations). So feel free to check my visualization projects as below:
+- 🔭 I have become more proficient in explorative data analysis techniques (data preprocessing, data analysis with statistical methods, and data visualizations). So feel free to check my visualization projects about Airbnb and Value-Buy Smartphones.
 
-
-- I have made a predictive study with machine learning algorithms and designed an automation data processing workflow with NoSQL database systems, showcased in these projects:
-    - [x]  
-
-
+- I have made a predictive study with machine learning algorithms and designed an automation data processing workflow with NoSQL database systems, showcased in these projects
 
 - 🌱 I’m currently interested in gaining more experiences with Deep Learning applications and exploring big data analytics tools. Hence, I am planning to make more projects to demonstrate my learning outputs. So, stay tuned!
 
