@@ -5,9 +5,14 @@
 Passionate about unraveling hidden stories in data to craft impactful solutions and drive meaningful decisions.📊✨
 </div>
 
-- 🔭 I’m currently working on explorative data analysis techniques, involving:
-    - [x] data preprocessing: perform data extraction through web scrapping, then clean and normalize data.
-    - [x] data analysis: convert and transform data to extract meaningful insights and confirm results by running statistical methods.
-    - [x] data visualization: display my findings into easy-to-understand diagrams.
-- 🌱 I’m currently learning more data science tools such as machine learning algorithms and big data analytics.
-- ⚡ Fun facts: I used to do chemistry stuffs in laboratories during bachelors where my interest in data has grown significantly ever since. I really like to learn new things; I just cannot stop digging into things once I start it. I love doggies and yoga.
+- 🔭 I have become more proficient in explorative data analysis techniques (data preprocessing, data analysis with statistical methods, and data visualizations). So feel free to check my visualization projects as below:
+
+
+- I have made a predictive study with machine learning algorithms and designed an automation data processing workflow with NoSQL database systems, showcased in these projects:
+    - [x]  
+
+
+
+- 🌱 I’m currently interested in gaining more experiences with Deep Learning applications and exploring big data analytics tools. Hence, I am planning to make more projects to demonstrate my learning outputs. So, stay tuned!
+
+- ⚡ Fun facts: I used to do chemistry stuffs in laboratories during bachelors where my interest in data has grown significantly ever since. I really like to learn new things; I just cannot stop digging into things once I start it. I love non-fictions, (cooking) reality shows, doggies, and yoga.
